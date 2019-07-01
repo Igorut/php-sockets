@@ -1,5 +1,8 @@
 # php-sockets
 
+# Examples
+Check out <b>examples</b> dir
+
 # Future features
 <ul>
 <li>Multi-thread realisation for something like rooms</li>
